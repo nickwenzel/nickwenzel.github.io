@@ -3,7 +3,7 @@
   <div id="name">Nick Wenzel</div>
   <div id="link-overlay">
 
-    <a href="https://www.yourwebsite.com/resume" target="_blank">Resume</a>
+    <a href="https://docs.google.com/document/d/1RguwaehD2_QSVwatSv5eWJQ-hAJ-HhDq/pub" target="_blank">Resume</a>
     <a href="https://github.com/nickwenzel" target="_blank">GitHub</a>
     <a href="https://www.linkedin.com/in/nick-wenzel-78869a16b/" target="_blank">LinkedIn</a>
     <a href="https://soundcloud.com/ickslay20" target="_blank">SoundCloud</a>
