@@ -5,7 +5,6 @@
       <router-link to="/cv">Resume</router-link>
       <a href="https://github.com/nickwenzel" target="_blank">GitHub</a>
       <a href="https://www.linkedin.com/in/nick-wenzel-78869a16b/" target="_blank">LinkedIn</a>
-      <a href="https://soundcloud.com/ickslay20" target="_blank">SoundCloud</a>
     </div>
     <div id="copyright">© 2024</div>
   </template>
@@ -223,7 +222,7 @@
     display: flex;
     flex-direction: row; /* Stack links vertically */
     align-items: center;
-    z-index: 10; /* Ensure it’s above the canvas */
+    z-index: 10; /* Ensure it's above the canvas */
     padding: 10px 20px;
     font-family: robotolight;
     color: white;
@@ -240,7 +239,7 @@
     display: flex;
     flex-direction: row; /* Stack links vertically */
     align-items: center;
-    z-index: 10; /* Ensure it’s above the canvas */
+    z-index: 10; /* Ensure it's above the canvas */
     padding: 10px 20px;
   
   }
@@ -265,7 +264,7 @@
     display: flex;
     flex-direction: row; /* Stack links vertically */
     align-items: center;
-    z-index: 10; /* Ensure it’s above the canvas */
+    z-index: 10; /* Ensure it's above the canvas */
     padding: 10px 20px;
     font-family: robotolight;
     color: white;
